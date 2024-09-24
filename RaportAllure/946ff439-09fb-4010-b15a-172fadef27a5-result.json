@@ -1,0 +1,1 @@
+{"name": "test_valid_credentials[chrome]", "status": "skipped", "parameters": [{"name": "initialize_driver", "value": "'chrome'"}], "start": 1707387486018, "stop": 1707387486018, "uuid": "0da2dda8-9ae7-4c26-9236-dd3e57b38562", "testCaseId": "1266d185f6e56392e298c0da20a913e1", "fullName": "tests.test_login.TestLogin#test_valid_credentials"}
