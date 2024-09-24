@@ -1,0 +1,8 @@
+/__pycache__
+/allurrReport
+/DemoFirstTest/__pycache__
+/DemoFirstTest1/__pycache__
+/DemoPytest/__pycache__/*.pyc
+/pages/__pycache__/*.pyc
+/tests/__pycache__/*.pyc
+/utilities/__pycache__/*.pyc
